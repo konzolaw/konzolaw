@@ -19,7 +19,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=konzolaw&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=konzolaw&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Konzolaw&langs_count=5&theme=tokyonight)]()
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=konzolaw&theme=radical&no-frame=false&no-bg=false&margin-w=4)
