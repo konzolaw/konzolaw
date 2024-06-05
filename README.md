@@ -9,7 +9,7 @@
 
 
 
-[[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Konzolaw&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iyke_konzolaw) 
 
