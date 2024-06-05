@@ -7,7 +7,7 @@
 - 📫 How to reach me iykekonzolaw21@gmail.com
 
 
-
+[![](https://visitcount.itsvg.in/api?id=konzolaw&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
@@ -19,6 +19,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=konzolaw&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=konzolaw&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Konzolaw&langs_count=5&theme=tokyonight)]()
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=konzolaw&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -33,11 +34,11 @@
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=konzolaw&icon=2&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Konzolaw&langs_count=5&theme=tokyonight)]()
+
 <!---
 konzolaw/konzolaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
