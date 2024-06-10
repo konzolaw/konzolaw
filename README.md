@@ -1,4 +1,4 @@
-![cooltext452658195858065](https://github.com/konzolaw/konzolaw/assets/125367223/bf906657-45b3-4b24-ac75-4f2a881ae807)
+<!--![cooltext452658195858065](https://github.com/konzolaw/konzolaw/assets/125367223/bf906657-45b3-4b24-ac75-4f2a881ae807) -->
 
 - 👋 Hi, I’m @konzolaw
 - 👀 I’m interested in Cyber Security and full-stack development
